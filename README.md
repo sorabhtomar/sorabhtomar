@@ -2,10 +2,10 @@
 
 ### Hi there 👋
 I'm a passionate Software Development Engineer working at [@cybage](https://www.cybage.com/) in Pune, India 🇮🇳 <br/> <br/>
-[![twitter badge](https://img.shields.io/badge/twitter-@sorabhdtomar-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/sorabhdtomar)
-[![linkedin badge](https://img.shields.io/badge/linkedin-sorabhtomar-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sorabhtomar)
-[![facebook badge](https://img.shields.io/badge/facebook-sorabhdtomar-%23FF0000?style=flat&logo=facebook)](https://www.facebook.com/mo.aboelkassem)
-[![instagram badge](https://img.shields.io/badge/instagram-@sorabhdtomar-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sorabhdtomar)
+[![twitter badge](https://img.shields.io/badge/twitter-@sorabhdtomar?style=flat&logo=twitter&logoColor=white)](https://twitter.com/sorabhdtomar)
+[![linkedin badge](https://img.shields.io/badge/linkedin-sorabhtomar?style=flat&logo=linkedin)](https://www.linkedin.com/in/sorabhtomar)
+[![facebook badge](https://img.shields.io/badge/facebook-sorabhdtomar?style=flat&logo=facebook)](https://www.facebook.com/sorabhdtomar)
+[![instagram badge](https://img.shields.io/badge/instagram-@sorabhdtomar?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sorabhdtomar)
 ![](https://komarev.com/ghpvc/?username=sorabhtomar&color=brightgreen&style=flat)
 
 - ⚡️ My Technology Stack: C#, JavaScript, TypeScript, Angular, CSS3, SASS, HTML5, Bootstrap, React.js, GraphQL, Vue.js, T-SQL, ASP.NET MVC, ASP.NET Web API, ASP.NET Core, Entity Framework Core and more ....
@@ -13,7 +13,7 @@ I'm a passionate Software Development Engineer working at [@cybage](https://www.
 - 👯 Looking for new Open Source contribution opportunities.
 
 ### My GitHub Top Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sorabhtomar&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sorabhtomar&hide=objective-c)
 ### My GitHub stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sorabhtomar&show_icons=true)
 
