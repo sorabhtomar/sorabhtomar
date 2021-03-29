@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300" style="display: block; margin: auto;">
 
 ### Hi there 👋
-I'm a passionate Software Development Engineer #working at [@cybage](https://www.cybage.com/) in Pune, India 🇮🇳 
+I'm a passionate Software Development Engineer <!--working at [@cybage](https://www.cybage.com/) in Pune, India 🇮🇳 -->
 <br/> <br/>
 [![twitter badge](https://img.shields.io/badge/twitter-@sorabhdtomar-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/sorabhdtomar)
 [![linkedin badge](https://img.shields.io/badge/linkedin-sorabhtomar-%231FA1F1?style=flat&logo=linkedin)](https://www.linkedin.com/in/sorabhtomar)
