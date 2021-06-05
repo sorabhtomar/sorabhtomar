@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300" style="display: block; margin: auto;">
 
 ### Hi there 👋
-I had once killed 3 bugs with a semicolon.
+I'm just a guy who once killed 3 bugs with a semicolon.
 <!--
 I'm a passionate Software Development Engineer. --><!--working at [@cybage](https://www.cybage.com/) in Pune, India 🇮🇳 -->
 <!--
